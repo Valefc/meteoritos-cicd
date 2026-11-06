@@ -1,0 +1,20 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python y pruebas
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Sitio generado (lo crea el workflow)
+public/
+
+# Descarga original de la NASA (se descarga una sola vez y no se versiona)
+Meteorite_Landings.csv
+
+# Editor / sistema
+.vscode/
+.DS_Store
+Thumbs.db

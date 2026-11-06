@@ -1,0 +1,8 @@
+Columnas de la descarga: ['name', 'id', 'nametype', 'recclass', 'mass (g)', 'fall', 'year', 'reclat', 'reclong', 'GeoLocation']
+Columnas conservadas (en este orden): ['id', 'name', 'recclass', 'mass (g)', 'fall', 'year', 'reclat', 'reclong']
+Filas de datos conservadas: 20000
+Datos faltantes por columna: {'id': 0, 'name': 0, 'recclass': 0, 'mass (g)': 70, 'fall': 0, 'year': 134, 'reclat': 2429, 'reclong': 2429}
+Registros con latitud y longitud exactamente 0,0: 0 (válidos por regla; se conservan)
+Registros con solo una de las dos coordenadas: 0
+Valores tratados con --tratar: 0 -> {}
+Errores de validación restantes: 0
